@@ -5,7 +5,7 @@ description:        "Hi I'm Jin."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/myprofile.jpeg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/background.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             kr_KR
 url:                https://jindl465.github.io/
